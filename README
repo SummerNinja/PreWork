@@ -4,7 +4,7 @@ Tips is a tip calculator application for iOS.
 
 Submitted by: Melanie Mendoza
 
-Time spent: 10 hours spent in total
+Time spent: 11 hours spent in total
 
 ## User Stories
 
@@ -23,15 +23,15 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough 
 
-Here's a walkthrough of implemented user stories:
+***** I do not have a Mac and so am developing on my school's Mac lab computers, but I cannot download software onto the computers,
+so I cannot (or do not know how I could at this point) use LICEcap to create a video walkthrough :(
+So, instead, I snipped screenshots of the app and have typed annotations for each picture and have compiled them together to a webfile 
+whose link is located below:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
 Learning the conventions of Swift and XCode were the biggest challenges in
 building the app.
 Additionally, figuring out how to access the local region to get the currency
