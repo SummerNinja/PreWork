@@ -39,7 +39,7 @@ almost stumbled upon it when testing out different things.
 Besides the coding challenges, developing on a library Mac computer was more difficult than I anticipated especially 
 because of the restrictions in dowloading software. Because of this, I could not download the github developer tools for
 OS X or LICEcap, so it was challenging to figure out how to bypass these restrictions as best as I could to create and upload
-the app. 
+the app. As a result, I was not able to create a .gitignore file until after I uploaded everything to github, so I am not sure whether the .gitignore took effect. I am currently searching about this issue online to find a solution in case it did not. 
 
 ## License
 
