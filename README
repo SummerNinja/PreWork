@@ -4,7 +4,7 @@ Tips is a tip calculator application for iOS.
 
 Submitted by: Melanie Mendoza
 
-Time spent: 11 hours spent in total
+Time spent: 13 hours spent in total
 
 ## User Stories
 
@@ -20,27 +20,29 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-
 ## Video Walkthrough 
-
-***** I do not have a Mac and so am developing on my school's Mac lab computers, but I cannot download software onto the computers,
+*****Disclosure*******
+I do not have a Mac, so I developed on a library computer. However, due to policies, I cannot download software onto these computers,
 so I cannot (or do not know how I could at this point) use LICEcap to create a video walkthrough :(
-So, instead, I snipped screenshots of the app and have typed annotations for each picture and have compiled them together to a webfile 
-whose link is located below:
-
+So instead, I took photos of different states of the app and compiled them to make a sort of walkthrough using my personal laptop. This
+attempt is rendered below:
+<img src='https://github.com/SummerNinja/PreWork/blob/master/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
-
 Describe any challenges encountered while building the app:
-Learning the conventions of Swift and XCode were the biggest challenges in
-building the app.
-Additionally, figuring out how to access the local region to get the currency
-symbol was difficult and the solution ended up being a much simpler solution that I stumbled upon
-while testing out different things for a different optional extension.
+Learning the conventions of Swift and XCode were challenging in building and expanding on the app.
+Similarly, figuring out how to access the local region to get the currency symbol was difficult and resulted
+in hours scouring the documentation and websites. However the solution ended up being quite simple, and in fact, I
+almost stumbled upon it when testing out different things.
+
+Besides the coding challenges, developing on a library Mac computer was more difficult than I anticipated especially 
+because of the restrictions in dowloading software. Because of this, I could not download the github developer tools for
+OS X or LICEcap, so it was challenging to figure out how to bypass these restrictions as best as I could to create and upload
+the app. 
 
 ## License
 
-    Copyright [2015] [name of copyright owner]
+    Copyright [2015] [Melanie Mendoza]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
