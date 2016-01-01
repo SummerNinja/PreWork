@@ -30,6 +30,7 @@ attempt is rendered below:
 
 ## Notes
 Describe any challenges encountered while building the app:
+
 Learning the conventions of Swift and XCode were challenging in building and expanding on the app.
 Similarly, figuring out how to access the local region to get the currency symbol was difficult and resulted
 in hours scouring the documentation and websites. However the solution ended up being quite simple, and in fact, I
