@@ -26,7 +26,7 @@ I do not have a Mac, so I developed on a library computer. However, due to polic
 so I cannot (or do not know how I could at this point) use LICEcap to create a video walkthrough :(
 So instead, I took photos of different states of the app and compiled them to make a sort of walkthrough using my personal laptop. This
 attempt is rendered below:
-<img src='https://github.com/SummerNinja/PreWork/blob/master/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Video Walkthrough](https://github.com/SummerNinja/PreWork/blob/master/walkthrough.gif)
 
 ## Notes
 Describe any challenges encountered while building the app:
